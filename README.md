@@ -1,2 +1,2 @@
 # ReplaceDevAndDisp_ActiveSheet
-Replaces compass display url's with correct filetypes
+Excel Macro that replaces compass display url's with correct filetypes
